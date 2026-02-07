@@ -1,0 +1,17 @@
+{
+  "GITHUB_TOKEN_ENV": "GITHUB_TOKEN",
+  "target_rows": 1000,
+  "start_date": "2015-01-01",
+  "end_date": "2024-12-31",
+  "per_page": 100,
+  "exclude_forks": true,
+  "include_topics": true,
+  "balance_star_bins": false,
+  "star_bins": [10, 100, 500, 5000],
+  "polite_delay_seconds": 0.5,
+  "max_attempts": 6,
+  "total_count_split_threshold": 900,
+  "random_sampling": true,
+  "random_sample_size": 50,
+  "random_window_days": 1
+}
